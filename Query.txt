@@ -1,0 +1,6 @@
+8.Configure Remote System Network:
+	-Get System Stats(free memory,load average,routing table,uptime)
+
+Seperate Project:
+1.Write a backup script to take backup of remote system config file(Create a temprory config folder with some files in it)
+(Install server on your pc and take ssh of your system(127.0.0.1) and take backup of files)
